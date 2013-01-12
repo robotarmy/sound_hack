@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Jungle.Sound</string>
+    <string name="title_sample_detail">Sample Detail</string>
+    <string name="title_sample_list">Samples</string>
+
+</resources>
